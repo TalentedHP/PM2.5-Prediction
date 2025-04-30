@@ -1,6 +1,6 @@
 # PM2.5 Air Quality Forecasting Using Hybrid ML Models
 
-Welcome to the official GitHub repository for PM2.5 forecasting using hybrid machine learning models such as Grey Wolf Optimizer (GWO) + LSTM and XGBoost.
+Welcome to the official GitHub repository for PM2.5 forecasting using hybrid machine learning model Grey Wolf Optimizer (GWO) + LSTM.
 
 ## Files
 
